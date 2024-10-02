@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { SearchInput } from "../molecules/SearchInput";
 import { UserCard } from "../organisms/user/UserCard";
-import dogImage from "/home/nanaho/Development/react-stepup-section6/src/img/dog.jpg";
+import dogImage from "../../img/dog.jpg";
 import { SecondaryButton } from "../atoms/button/SecondaryButton";
 import { useContext } from "react";
 import { UserContext } from "../../providers/UserProvider";
